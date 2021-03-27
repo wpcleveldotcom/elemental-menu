@@ -1,15 +1,17 @@
-# A smart & intuitive mega menu builder for Elementor
-As an agency, we tried other mega menu plugins for Elementor before but none of them met our requirements and fulfilled the capacity of Elementor. So, we made this one which is very intuitive, feature-rich and lightweight.
+# A smart, lightweight and intuitive mega menu builder for Elementor
+As an agency, we tried other mega menu plugins for Elementor before but none of them met our requirements and fulfilled the capacity of Elementor. So, we made this one which is very intuitive, feature-rich, lightweight and easy to use.
 
 ## Key features
 
-1. **Intuitive** - Easy to use without fragmental settings. Edit & preview everything directly on the Elementor editor.
-2. **RTL-Ready** - RTL is ready for both frontend and backend.
-3. **Lightweight** - Very lightweight. Only about 10 KB of compressed CSS and JS. No 3rd libraries.
-4. **Portable Data** - Just like other Elementor template types, you can import/export a whole mega menu item. Save your time!
-5. **Flexible & Customizable** - With tons of controls, you can build stunning mega menus like a pro.
+1. **Intuitive** – Easy to use without fragmental settings. Edit & preview everything directly on the Elementor editor.
+2. **RTL-Ready** – RTL is ready for both frontend and backend.
+3. **Lightweight** – Only about 10 KB of compressed CSS and JS. No 3rd libraries.
+4. **Portable Data** – Just like other Elementor templates, you can import/export a whole mega menu item. Save your time!
+5. **Accessibility Ready** – Supports a wide range of assistive devices.
+6. **Smart Context-Aware** – When editing a menu, entire surrounding elements will be simulated to make everything truly live.
+7. **Flexible & Customizable** – With tons of controls and layout options, you can customize everything however you want.
 
-For full features, feel free to [try it out](https://preview.wpclevel.com/elementor-mega-menu/)! You can also view and vote for [upcoming features](https://github.com/wpcleveldotcom/mega-menu-pro-for-elementor/labels/feature) too.
+For full features, feel free to [try it out](https://preview.wpclevel.com/elementor-mega-menu/)! You can also view and vote for [upcoming features](https://github.com/wpcleveldotcom/elemental-menu/labels/feature) too.
 
 ## Documentation & Tutorials
 
